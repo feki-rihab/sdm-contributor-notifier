@@ -56,6 +56,7 @@ Execute the following command in the terminal:
     pygithub = "^2.2.0"
     python-dotenv = "^1.0.1"
     github-py = "^0.5.0"
+    pyyaml = "^6.0.1"
 
 
     [build-system]
@@ -104,5 +105,3 @@ load_dotenv()
 mongo_host = os.getenv("MONGO_HOST")
 mongo_port = int(os.getenv("MONGO_PORT"))
 ```
-
-
