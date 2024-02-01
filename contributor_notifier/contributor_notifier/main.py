@@ -9,9 +9,8 @@
 # Send them customized emails depending on the change. 
 
 ########################################################################
-#                                 TODO                                 #
+#                          Notes from meeting                          #
 ########################################################################
-
 # to dedetct the chnge = we need to have a db of versions 
 # we can not trust the publications in portal of sdms 
 # pull request 
@@ -46,6 +45,25 @@
 
 # priorities which parts of the notifs/waterverse 
 # last step : make this notif automatic (also part of waterverse)
+
+########################################################################
+#                                TODO s                                #
+########################################################################
+
+# TODO: Detect the Change - We need to have a database of versions.
+# TODO: Trustworthiness of Publications - We cannot trust the publications in the portal of SDMs.
+# TODO: Submit a pull request.
+# TODO: Registry of Warned Individuals - Maintain a registry of individuals who have been previously warned about an event.
+# TODO: Warning Types - Define different types of warnings, such as sending a thank you and an attestation.
+# TODO: Attestations and Contributors - Provide examples of attestations in the portal for individuals 
+# who want to be listed as contributors.
+# TODO: Notification Database - Explore the database of notifications, including details such as the 
+# person, subject, time, name, surname, email, topic, and notification text.
+# TODO: Launch Process - Launch the process when a new data model is available.
+# TODO: Major Version Update - Notify in the case of a breaking or major version update, such as when 
+# there are significant changes to a data model.
+# TODO: Automatic Notifications - Make the notification process automatic.
+
 
 
 ########################################################################
